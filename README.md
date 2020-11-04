@@ -1,1 +1,3 @@
-# CSE 2.1 Software Development Lab 2
+# Desktop Messenger Application using JAVA
+
+This application will allow the user to send messages with others and transfer files in the same network
